@@ -137,4 +137,4 @@ def launch_app():
             outputs=[out_summary, out_map],
         )
 
-    demo.launch(share=True)
+    demo.launch(server_name="0.0.0.0",server_port=7860)
