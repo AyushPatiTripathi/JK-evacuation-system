@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react"
 import { useRoute } from "../context/RouteContext"
 
-const API = "https://jk-evac-backend.onrender.com"
+const API = "https://jk-evacuation-system.onrender.com"
 
 
 export default function Sidebar() {
