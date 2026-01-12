@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react"
 import { useRoute } from "../context/RouteContext"
 
-const API = "http://localhost:8000"
+const API = "https://jk-evac-backend.onrender.com"
+
 
 export default function Sidebar() {
   const [districts, setDistricts] = useState([])
