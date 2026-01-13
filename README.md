@@ -1,4 +1,4 @@
-# SafeRouteX — Disaster-Aware Evacuation Routing System
+#   Ayush — Disaster-Aware Evacuation Routing System
 
 > SafeRouteX computes risk-aware evacuation routes using live weather and seismic data, built for backend engineers, researchers, and emergency-planning system designers.
 
